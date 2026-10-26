@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+.DS_Store
+.idea/
+.vscode/
+
+# Python virtual environment
+venv/
+.env
+.streamlit/secrets.toml
